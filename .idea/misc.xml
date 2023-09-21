@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MyApplication_0601_2/app/src/main/res/drawable/boss10_hurt.xml" value="0.1" />
+        <entry key="..\:/MyApplication_0601_2/app/src/main/res/drawable/boss1_hurt.xml" value="0.1" />
+        <entry key="..\:/MyApplication_0601_2/app/src/main/res/drawable/boss2_hurt.xml" value="0.1" />
+        <entry key="..\:/MyApplication_0601_2/app/src/main/res/drawable/boss3_hurt.xml" value="0.1" />
+        <entry key="..\:/MyApplication_0601_2/app/src/main/res/drawable/boss4_hurt.xml" value="0.1" />
+        <entry key="..\:/MyApplication_0601_2/app/src/main/res/drawable/boss5_hurt.xml" value="0.1" />
+        <entry key="..\:/MyApplication_0601_2/app/src/main/res/drawable/boss6_hurt.xml" value="0.1" />
+        <entry key="..\:/MyApplication_0601_2/app/src/main/res/drawable/boss7_hurt.xml" value="0.1" />
+        <entry key="..\:/MyApplication_0601_2/app/src/main/res/drawable/boss8_hurt.xml" value="0.1" />
+        <entry key="..\:/MyApplication_0601_2/app/src/main/res/drawable/boss9_hurt.xml" value="0.1" />
+        <entry key="..\:/MyApplication_0601_2/app/src/main/res/drawable/playerattack.xml" value="0.1" />
+        <entry key="..\:/MyApplication_0601_2/app/src/main/res/drawable/playerhurt.xml" value="0.1" />
+        <entry key="..\:/MyApplication_0601_2/app/src/main/res/layout/activity_ch1412.xml" value="0.19583333333333333" />
+        <entry key="..\:/MyApplication_0601_2/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/MyApplication_0601_2/app/src/main/res/layout/activity_main2.xml" value="0.33" />
+        <entry key="..\:/MyApplication_0601_2/app/src/main/res/layout/activity_main3.xml" value="0.33" />
+        <entry key="..\:/MyApplication_0601_2/app/src/main/res/layout/activity_main4.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
